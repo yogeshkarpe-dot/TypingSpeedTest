@@ -82,6 +82,11 @@ namespace TypingSpeedTest
             }
         }
 
+        /// <summary>
+        /// button2 click
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button2_Click(object sender, EventArgs e)
         {
 
