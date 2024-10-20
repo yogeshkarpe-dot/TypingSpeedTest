@@ -83,7 +83,7 @@ namespace TypingSpeedTest
         }
 
         /// <summary>
-        /// used for timer
+        /// used for timer (added for checking)
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
