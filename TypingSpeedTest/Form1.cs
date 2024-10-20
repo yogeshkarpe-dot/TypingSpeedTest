@@ -18,12 +18,6 @@ namespace TypingSpeedTest
         }
 
         string[] data;
-
-        /// <summary>
-        /// FormLoad
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
         private void Form1_Load(object sender, EventArgs e)
         {
             string input = textBox1.Text;
@@ -31,11 +25,6 @@ namespace TypingSpeedTest
             button1.Focus();
         }
 
-        /// <summary>
-        /// button click
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
             textBox2.ReadOnly = false;
@@ -48,12 +37,6 @@ namespace TypingSpeedTest
         }
 
         private static int Cnt = 60;
-
-        /// <summary>
-        /// timer clicks on time change
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
         private void timer1_Tick(object sender, EventArgs e)
         {
             Cnt--;
