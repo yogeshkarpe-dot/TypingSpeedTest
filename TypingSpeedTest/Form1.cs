@@ -83,7 +83,7 @@ namespace TypingSpeedTest
         }
 
         /// <summary>
-        /// button2 click
+        /// used for timer
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
