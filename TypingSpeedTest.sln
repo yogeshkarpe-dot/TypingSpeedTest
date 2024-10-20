@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypingSpeedTest", "TypingSpeedTest\TypingSpeedTest.csproj", "{CD30EF6D-610B-4236-9EAD-B5D725ADB023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD30EF6D-610B-4236-9EAD-B5D725ADB023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD30EF6D-610B-4236-9EAD-B5D725ADB023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD30EF6D-610B-4236-9EAD-B5D725ADB023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD30EF6D-610B-4236-9EAD-B5D725ADB023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BCF88CD-D040-4A13-9555-DE71848CC3A1}
+	EndGlobalSection
+EndGlobal
