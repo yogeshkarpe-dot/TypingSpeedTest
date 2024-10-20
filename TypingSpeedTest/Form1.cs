@@ -39,7 +39,7 @@ namespace TypingSpeedTest
         private static int Cnt = 60;
 
         /// <summary>
-        /// timer click
+        /// timer click (added changes from local)
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
